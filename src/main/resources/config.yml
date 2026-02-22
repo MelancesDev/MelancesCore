@@ -1,0 +1,16 @@
+chat:
+  prefix: "§8[§c!§8] §6Sistem §8> §r"
+
+debug:
+  enabled: true
+  uiDiagnostics: true
+  stacktraceInChat: false
+  maxChatErrorLen: 180
+
+db:
+  file: "data.sqlite"
+
+modules: {}
+
+ui:
+  errorCooldownMs: 1000

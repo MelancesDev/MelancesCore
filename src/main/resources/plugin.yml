@@ -1,0 +1,4 @@
+name: MelancesCore
+main: com.melances.core.MelancesCore
+version: 1.0.0
+api: ["2.0.0"]
